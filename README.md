@@ -10,4 +10,4 @@ developpement d'une petite messagerie instantanée (ici le projet était d'appre
 
 ### 4 - envoyer un message "instantané" d'un navigateur à l'autre puis répondre depuis l'autre navigateur
 
-![messenger-img1](https://github.com/patmulot/mvc-tmnt/blob/main/messenger-img1.JPG)
+![messenger-img1](https://github.com/patmulot/messenger/blob/main/messenger-img1.JPG)
