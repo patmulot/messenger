@@ -1,6 +1,7 @@
 # messenger
 developpement d'une petite messagerie instantanée (ici le projet était d'apprendre a utiliser **Lumen** le micro framework de **Laravel**, AJAX, et le Json)
 
+## DEMARRAGE DE LA MESSAGERIE :
 ### 1 - lancer le serveur de développement php sur le repo "back" :
     ```php -S 0.0.0.0:8080 -t public```
 
